@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="logo_text">Clicker</string>
+    <string name="click">Click</string>
+    <string name="yourspeedtest">YourSpeedTest</string>
+    <string name="click_speed">Click Speed</string>
+    <string name="typing_test">Typing Test</string>
+</resources>
